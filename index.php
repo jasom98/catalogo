@@ -1,11 +1,9 @@
 <!doctype html>
 <html lang="en">
   <head>
-    <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<link rel="icon" type="image/ico" href="images/logo.png" /> 
-    <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
     <title>Catalogo</title>
@@ -14,7 +12,7 @@
 	<h1 align="center"><a href="admin.php"><button type="button" class="btn btn-primary btn-lg">
 	Administrador</button></a></h1>
   </head>
-  <body background="images/b.jpg">
+  <body background="images/fn1.jpg">
   <header>
       <br>
 
